@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1071732503207",
+    "firebase_url": "https://ubereats-flutter.firebaseio.com",
+    "project_id": "ubereats-flutter",
+    "storage_bucket": "ubereats-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071732503207:android:12592b4bb30bdb64",
+        "android_client_info": {
+          "package_name": "com.francomacri.flutter_ubereats_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071732503207-gav7v3is29q1fdu1i686t9i4q7vecvb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.francomacri.flutter_ubereats_app",
+            "certificate_hash": "8bfa0fdac18aaa1265b51e3ee0352f212739cbc3"
+          }
+        },
+        {
+          "client_id": "1071732503207-ll21153q6gaf618p9pb5agk4i9geidsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA5OSjeASFBA08qOZlolybJ06l3GI3wzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071732503207-ll21153q6gaf618p9pb5agk4i9geidsq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071732503207-mm9n2g5d80iope4ktdhl3lhjb1l7i956.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.francomacri.flutterUbereatsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
