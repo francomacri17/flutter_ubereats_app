@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_ubereats_app/src/ui/login_page.dart';
 
 class App extends StatelessWidget {
   // This widget is the root of your application.
@@ -8,11 +9,12 @@ class App extends StatelessWidget {
     return MaterialApp(
       title: 'Uber Eats',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
+        fontFamily: 'Regencie'
       ),
       home: Container(child:
         Center(
-          child: Text('UberEats with fullter'),
+          child: LoginPage(),
         )
       )
     );

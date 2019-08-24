@@ -38,6 +38,9 @@ dependencies:
   # flutter sign in button
   flutter_signin_button: ^0.2.8
 
+  # rxdart
+  rxdart: ^0.22.1+1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
